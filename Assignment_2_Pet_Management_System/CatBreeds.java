@@ -1,0 +1,3 @@
+public enum CatBreeds {
+    SIAMESE, PERSIAN, MAINE_COON, RAGDOLL, BENGAL
+}
